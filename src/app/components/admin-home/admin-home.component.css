@@ -1,0 +1,24 @@
+.bg-img {
+
+    background-image: url("/assets/Images/familypic.png");
+
+    height: 590px;
+
+    width: 1250px;
+
+    margin: 0px;
+
+    background-position: center;
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+    position: relative;
+  }
+  .topnav{
+      margin-left: 0px;
+  }
+  .topnav a{
+      margin-left: 40px;
+  }
